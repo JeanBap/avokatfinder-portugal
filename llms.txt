@@ -1,5 +1,38 @@
 # AvökatFinder Portugal
-> English-speaking law firm directory for Portugal
+> The English-language directory of lawyers and law firms in Portugal for expats, foreign nationals and international businesses.
 
-Directory: https://portugal.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://portugal.avokatfinder.com/: Home — find an English-speaking lawyer in Portugal
+- https://portugal.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Portugal
+- https://portugal.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Portugal legal terms
+- https://portugal.avokatfinder.com/blog/: Expat legal guides and property law articles for Portugal
+- https://portugal.avokatfinder.com/about/: About AvökatFinder Portugal
+- https://portugal.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://portugal.avokatfinder.com/glossary/aima/
+- https://portugal.avokatfinder.com/glossary/autorizacao-residencia/
+- https://portugal.avokatfinder.com/glossary/averbamento/
+- https://portugal.avokatfinder.com/glossary/caderneta-predial/
+- https://portugal.avokatfinder.com/glossary/caderneta-predial/
+- https://portugal.avokatfinder.com/glossary/contrato-promessa/
+- https://portugal.avokatfinder.com/glossary/cpcv/
+- https://portugal.avokatfinder.com/glossary/habilitacao-herdeiros/
+- https://portugal.avokatfinder.com/glossary/imi/
+- https://portugal.avokatfinder.com/glossary/imposto-selo/
+- https://portugal.avokatfinder.com/glossary/imt/
+- https://portugal.avokatfinder.com/glossary/nhr/
+- https://portugal.avokatfinder.com/glossary/nif-portugal/
+- https://portugal.avokatfinder.com/glossary/nif/
+- https://portugal.avokatfinder.com/glossary/procuracao-portugal/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Portugal
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://portugal.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
